@@ -12,9 +12,7 @@ import requests # To be used for later function
 
 # Common Passwords (To be updated with more)
 COMMON_PASSWORDS = [
-    "password", "123456", "password123", "admin", "letmein",
-    "welcome", "monkey", "dragon", "master", "sunshine",
-    "princess", "qwerty", "abc123", "iloveyou", "trustno1"]
+    "password"]
 
 def check_password_strength(password):
     score = 0
