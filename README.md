@@ -1,4 +1,4 @@
-Command line program created using Python. 
+Command line Python program focused on Cybersecurity.
 
 Currently it allows the user to:
 
